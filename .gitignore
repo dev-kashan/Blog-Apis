@@ -2,7 +2,6 @@
 env/
 
 # Ignore database files
-db.sqlite3
 
 # Byte-compiled files
 __pycache__/
@@ -15,7 +14,6 @@ __pycache__/
 
 # Ignore static/media uploads
 staticfiles/
-media/
 
 # Ignore logs
 *.log
